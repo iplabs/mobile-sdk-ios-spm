@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
                   name: "IplabsSdk",
-                  url: "https://mobile-sdk.s3.eu-central-1.amazonaws.com/iOS/IplabsSdk.xcframework-v1.1.0.zip",
-                  checksum: "45bfc2d7277bed3aab3a58b4bb4d1250dac3a400a4e3857582bf362c8f28ad11"
+                  url: "https://mobile-sdk.s3.eu-central-1.amazonaws.com/iOS/IplabsSdk.xcframework-v1.2.0.zip",
+                  checksum: "0af8f28bc3b8e689847d71c3e9a22b292912472f77f75d2031e09d74cbda91f7"
               ),
     ]
 )
