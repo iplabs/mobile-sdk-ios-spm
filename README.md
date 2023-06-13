@@ -2,6 +2,6 @@
 
 Swift package for the ip.labs Mobile SDK
 
-Documentation can be found at <http://mobile-sdk-docs.s3-website.eu-central-1.amazonaws.com>
+Documentation can be found at <http://docs.sdk.iplabs.io>
 
-CHANGELOG: <http://mobile-sdk-docs.s3-website.eu-central-1.amazonaws.com/docs/changelog>
+CHANGELOG: <https://docs.sdk.iplabs.io/docs/changelog>
